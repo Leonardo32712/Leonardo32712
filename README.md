@@ -6,10 +6,13 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e3e3e3&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Engineer;I'm+a+Full+Stack+developer;I'm+a+competitive+programmer;I'm+a+Computer+Engineer" /></a>
 </p>
 
+## About me 🙋🏽‍♂️
 - 🌱 I’m currently learning **.Net, MySQL**.
 - 🤝 I’m looking to collaborate on **Web Development** Related Projects.
 - 🥅 2024 Goals: Finish my .Net personal project.
 - ⚡ Fun fact: I love marcial arts and playing video games.
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 ## Stats 📈
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
