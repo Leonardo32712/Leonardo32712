@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Leonardo 👋</h1>
 
-![Banner](https://github.com/user-attachments/assets/6bc80e47-e5a1-40c9-b0f7-e8fc351e1ca4)
+![Banner](https://github.com/user-attachments/assets/f3327d14-03db-4188-9fea-16623878f159)
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e3e3e3&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+developer;I'm+a+competitive+programmer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e3e3e3&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Engineer;I'm+a+Full+Stack+developer;I'm+a+competitive+programmer;I'm+a+Computer+Engineer" /></a>
 </p>
 
 - 🌱 I’m currently learning **.Net, MySQL**.
@@ -66,3 +66,9 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </span>
+
+<h2>Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<a href="https://github.com/Kiran1689/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leonardo32712&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+</a>
+<br />
