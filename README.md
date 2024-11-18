@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Leonardo 👋</h1>
 
 ![Banner](https://github.com/user-attachments/assets/f3327d14-03db-4188-9fea-16623878f159)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e3e3e3&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Engineer;I'm+a+Full+Stack+developer;I'm+a+competitive+programmer;I'm+a+Computer+Engineer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e3e3e3&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Engineer;I'm+a+Full+Stack+developer;I'm+a+competitive+programmer;I'm+a+Computer+Engineer" /></a>
 </p>
 
 - 🌱 I’m currently learning **.Net, MySQL**.
@@ -11,8 +11,14 @@
 - 🥅 2024 Goals: Finish my .Net personal project.
 - ⚡ Fun fact: I love marcial arts and playing video games.
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Stats 📈
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
+  <img alt="most used languages" heigth="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo32712&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c" />
+  <img alt="status github, commits, etc..." heigth="500px" src="https://github-readme-stats.vercel.app/api?username=leonardo32712&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" /> 
+</div>
 
+
+## Skills 📊
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -67,7 +73,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </span>
 
-<h2>Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+## Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆 
 <a href="https://github.com/Kiran1689/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Leonardo32712&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
 </a>
