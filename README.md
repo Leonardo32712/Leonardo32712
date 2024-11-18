@@ -17,6 +17,25 @@
   <img alt="status github, commits, etc..." heigth="500px" src="https://github-readme-stats.vercel.app/api?username=leonardo32712&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" /> 
 </div>
 
+## Recent Projects 🚀
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">MovieMeter</h3>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e89b33c4-61a3-4201-8e2e-fd425dff2ea5">
+<p>
+<a href="https://github.com/Leonardo32712/TFM_Frontend" target="_blank">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>This project aims to develop a web application in the form of a movie review writing and management application. The application is designed to provide an intuitive and functional platform for users and thus facilitate the expression of opinions and criticism of film content.</p>
+</div>
+                                                                                      
+</td>
+                                                    
+</table>                                                                                 
+</div> 
 
 ## Skills 📊
 <h4> Languages </h4>
