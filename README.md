@@ -7,9 +7,9 @@
 </p>
 
 ## About me 🙋🏽‍♂️
-- 🌱 I’m currently learning **.Net, MySQL**.
+- 🌱 I’m currently learning **TailWind CSS**.
 - 🤝 I’m looking to collaborate on **Web Development** Related Projects.
-- 🥅 2024 Goals: Finish my .Net personal project.
+- 🥅 2025 Goals: Study Angular 19 and TailWind CSS.
 - ⚡ Fun fact: I love marcial arts and playing video games.
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
