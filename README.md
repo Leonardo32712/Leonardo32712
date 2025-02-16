@@ -8,7 +8,6 @@
 
 ## About me 🙋🏽‍♂️
 - 🌱 I’m currently learning **TailWind CSS**.
-- 🤝 I’m looking to collaborate on **Web Development** Related Projects.
 - 🥅 2025 Goals: Study Angular 19 and TailWind CSS.
 - ⚡ Fun fact: I love marcial arts and playing video games.
 
